@@ -60,30 +60,30 @@ graph:
   - contracts_format: "records_json_api"
 
 # Customize the More information menu button title
-menu_button_title: More information
+menu_button_title: Más información
 
 # Customize the titles and placeholder inputs in Contracts page
-contracts_title: Contracts by companies
-search_title: Search
-search_placeholder: Enter keyword to search
-amount_title: Total amount (Mexican pesos)
-amount_from_placeholder: From $
-amount_to_placeholder: to $
-type_contract_title: Type of contract
-type_contract_title_tooltip: The law requires that the Buyer defines the type of contract because the rules vary in each case.
-type_contract_all_option: All
-type_procedure_title: Type of procedure
-type_procedure_title_tooltip: La licitación pública es según la ley mexicana el procedimiento adecuado para contratar obra publica. Excepcionalmente también se pueden realizar otro tipo de procedimientos como adjudicación directa, convenio e invitación a cuando menos tres proveedores.
-type_procedure_all_option: All
-date_range_title: Date range
-date_range_from_placeholder: From
-date_range_to_placeholder: to
-date_range_title_tooltip: Find active contracts between two dates.
-filter_footnote_title: Apply filters on contracts with companies.
+contracts_title: Aportes por financistas
+search_title:  Búsqueda
+search_placeholder: Introduce un nombre a buscar
+amount_title: Monto total (Q)
+amount_from_placeholder: De Q
+amount_to_placeholder: a Q
+type_contract_title: Partido político
+type_contract_title_tooltip: Los partidos presentan sus informes de financistas mensualmente, en base a lo requerido por la Ley Electoral.
+type_contract_all_option: Todos
+type_procedure_title: Campaña
+type_procedure_title_tooltip: Una campaña política se compone de varios años.
+type_procedure_all_option: Todos
+date_range_title: Rango de fechas
+date_range_from_placeholder: Desde
+date_range_to_placeholder: hasta
+date_range_title_tooltip: Encuentra aportes entre dos fechas.
+filter_footnote_title: Aplica filtros para conocer los aportes de financistas.
 # Customize the Contract table titles
-column_1: Companies
-column_2: No. of contracts
-column_3: Total amount
+column_1: Financistas
+column_2: Cant. de aportes
+column_3: Monto total
 
 # Build settings
 plugins:
