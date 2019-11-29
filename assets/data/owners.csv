@@ -1,0 +1,50 @@
+NOMBRE,TIPO_ENTIDAD,RELACIONADO_CON,TIPO_RELACION,PUESTO,Partido,Campaña
+Gilma Lourdes Urizar Pérez,persona,"Compañía Aeroterrestres de Guatemala, S. A.",shareholder,Accionista,Lider,2015
+Gilma Lourdes Urizar Pérez,persona,"Compañía Aeroterrestres de Guatemala, S. A.",board member,Gerente general,Lider,2015
+Lilia Eugenia López Velásquez,persona,"Compañía Aeroterrestres de Guatemala, S. A.",shareholder,Notaria,Lider,2015
+Nelson Salvador Torres Reyes,persona,"Compañía Aeroterrestres de Guatemala, S. A.",shareholder,Ex Gerente general (MANDATO CANCELADO),Lider,2015
+Oscar Leonel de León Cuellar,persona,"Compañía Aeroterrestres de Guatemala, S. A.",shareholder,Notario,Lider,2015
+Carlos Humberto Martínez Ruano,persona,"Compañía Aeroterrestres de Guatemala, S. A.",shareholder,Gerente general,Lider,2015
+Carlos Humberto Martínez Ruano,persona,"Empresa de Transporte Moderno Intermunicipal, S. A.",shareholder,Notario,Lider,2015
+Carlos Humberto Martínez Ruano,persona,Sistemas y Proyectos Alternativos de Publicidad S. A.,shareholder,Notario,Lider,2015
+"Compañía Aeroterrestres de Guatemala, S. A.",persona,Sistemas y Proyectos Alternativos de Publicidad S. A.,shareholder,Accionista,Lider,2015
+María Lorena Vásquez Jacobo,persona,"Compañía Aeroterrestres de Guatemala, S. A.",shareholder,Accionista,Lider,2015
+María Lorena Vásquez Jacobo,persona,Cartera de Créditos S.A.,shareholder,Accionista,Lider,2015
+Juan José López de León,persona,Cartera de Créditos S.A.,shareholder,Subgerente Administrativo,Lider,2015
+José Orlando Renderos Rosales,persona,Cartera de Créditos S.A.,shareholder,Gerente Administrativo,Lider,2015
+Sistemas y Proyectos Alternativos de Publicidad S. A.,empresa,Cartera de Créditos S.A.,shareholder,Accionista,Lider,2015
+Roselia Díaz Ortiz,persona,Cartera de Créditos S.A.,shareholder,Accionista,Lider,2015
+Roselia Díaz Ortiz,persona,Proyectos Alternativos de Publicidad S. A.,shareholder,Gerente general,Lider,2015
+Roselia Díaz Ortiz,persona,Balvar S.A.,shareholder,Representante legal,Lider,2015
+Manuel Baldizón Méndez,persona,Balvar S.A.,shareholder,Dueño,Lider,2015
+Marce Gabriela Lossi Hernández,persona,Sistemas y Proyectos Alternativos de Publicidad S. A.,shareholder,Ex Gerente general,Lider,2015
+Marce Gabriela Lossi Hernández,persona,Telesky S. A.,shareholder,Gerente administrativa,Lider,2015
+Anabela del Rosario Azurdia Morales,persona,"Empresa de Transporte Moderno Intermunicipal, S. A.",shareholder,Gerente general,Lider,2015
+Henry Missael Bonilla Fernández,persona,"Empresa de Transporte Moderno Intermunicipal, S. A.",shareholder,Gerente general,Lider,2015
+Julio Antonio Yool Tay,persona,"Empresa de Transporte Moderno Intermunicipal, S. A.",shareholder,Gerente administrativo,Lider,2015
+Gilmar Estuardo Salazar Palma,persona,"Empresa de Transporte Moderno Intermunicipal, S. A.",shareholder,Gerente general,Lider,2015
+Sandy Agnase Pérez Ordóñez,persona,"Empresa de Transporte Moderno Intermunicipal, S. A.",shareholder,Notario,Lider,2015
+Carlos Roberto Paz Reynoso,persona,"Empresa de Transporte Moderno Intermunicipal, S. A.",shareholder,Gerente general,Lider,2015
+Carlos Roberto Paz Reynoso,persona,Corporación de Transportes Especiales,shareholder,Representante legal,Lider,2015
+Carlos Roberto Paz Reynoso,persona,Empresa Regional de Autobuses S. A.,shareholder,Gerente general,Lider,2015
+Edwin Antonio Córdova Álvarez,persona,Corporación de Transportes Especiales,shareholder,Accionista,Lider,2015
+Rafael Monroy Soyos,persona,Corporación de Transportes Especiales,shareholder,Accionista,Lider,2015
+Ericka Maritza Lopez Blanco,persona,Corporación de Transportes Especiales,shareholder,Accionista,Lider,2015
+Ana Elizabeth Mancur Milian,persona,Corporación de Transportes Especiales,shareholder,Notaria,Lider,2015
+Ana Elizabeth Mancur Milian,persona,Empresa Regional de Autobuses S. A.,shareholder,Notaria,Lider,2015
+Corporación de Transportes Especiales,empresa,Empresa Regional de Autobuses S. A.,shareholder,Accionista,Lider,2015
+Eriel Estuardo Villegas Ojeda,persona,Empresa Regional de Autobuses S. A.,shareholder,Gerente de operaciones,Lider,2015
+Ramiro Antonio Calderón Rodas,persona,Empresa Regional de Autobuses S. A.,shareholder,Notario,Lider,2015
+"Empresa de Transporte Moderno Intermunicipal, S. A.",empresa,Empresa Regional de Autobuses S. A.,shareholder,Accionista,Lider,2015
+Héctor Cecilio de León de León,persona,"Empresa de Transporte Moderno Intermunicipal, S. A.",shareholder,Accionista,Lider,2015
+Anibal Arnulfo López Lima,persona,"Empresa de Transporte Moderno Intermunicipal, S. A.",shareholder,Accionista,Lider,2015
+Manuel Baldizón Méndez,persona,Telesky S. A.,shareholder,Fundador,Lider,2015
+Héctor Cecilio de León de León,persona,Telesky S. A.,shareholder,Accionista,Lider,2015
+Héctor Cecilio de León de León,persona,Televida S. A.,shareholder,Accionista,Lider,2015
+Ángel Aníbal Pappa López,persona,Televida S. A.,shareholder,Notario,Lider,2015
+Marvin Giovanni Aldana Azurdia,persona,Televida S. A.,shareholder,Gerente general,Lider,2015
+Luis Alberto Barrientos Acosta,persona,Televida S. A.,shareholder,Gerente general,Lider,2015
+Anibal Arnulfo López Lima,persona,Televida S. A.,shareholder,Accionista,Lider,2015
+Anibal Arnulfo López Lima,persona,Telesky S. A.,shareholder,Accionista,Lider,2015
+Luis Alberto Barrientos Acosta,persona,Telesky S. A.,shareholder,Gerente general,Lider,2015
+Marvin Giovanni Aldana Azurdia,persona,Telesky S. A.,shareholder,Gerente general,Lider,2015
